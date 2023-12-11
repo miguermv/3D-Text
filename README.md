@@ -8,6 +8,6 @@
   <h3 align="center">3D TEXT</h3>
 
   <p align="center">
-    An fun little project of a 3D Text.
+    An fun little project of an animated 3D Text.
   </p>
 </div>
